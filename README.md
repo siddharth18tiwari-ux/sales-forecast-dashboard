@@ -1,6 +1,6 @@
 # Sales Forecasting & Business Insights Dashboard
 
-A professional data analytics dashboard built using Python and Streamlit.
+A professional business analytics dashboard built using Python and Streamlit.
 
 ## Features
 - Sales Forecasting
@@ -8,7 +8,7 @@ A professional data analytics dashboard built using Python and Streamlit.
 - SQL Analysis
 - Business Recommendations
 - Interactive Charts
-- CSV Upload
+- CSV Upload Support
 
 ## Technologies Used
 - Python
